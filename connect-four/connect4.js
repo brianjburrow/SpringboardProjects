@@ -66,6 +66,7 @@ function findSpotForCol(x) {
       return i;
     }
   }
+  // column is full already
   return null;
 }
 
